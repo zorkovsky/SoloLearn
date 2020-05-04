@@ -23,6 +23,6 @@ jim.render();br
 pet.render();
 
 //comment SoloLearn
-
+//comment SoloLearn II
 br.call();br();
 document.write("END");
