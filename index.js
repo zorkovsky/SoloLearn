@@ -24,5 +24,7 @@ pet.render();
 
 //comment SoloLearn
 
+//comment SoloLearn III (remote)
+
 br.call();br();
 document.write("END");
