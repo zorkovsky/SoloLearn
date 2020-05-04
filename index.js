@@ -24,5 +24,6 @@ pet.render();
 
 //comment SoloLearn
 //comment SoloLearn II
+//comment SoloLearn III
 br.call();br();
 document.write("END");
