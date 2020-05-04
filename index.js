@@ -1,7 +1,27 @@
-document.write("start<BR>");
+function br() {document.write("<BR>")};
 
-var x=0;
-while(x<6){x++;}
-document.writeln(x);
+document.write("START");
+br();br();
 
-document.write("<BR>end");
+
+function buddy(name,nick) {
+ this.name = name;
+ this.nick = nick
+ 
+ this.render = function() {
+
+    document.write(this.name + " : " + this.nick)
+ }
+
+}   
+
+var jim = new buddy("James","Jimmy");
+var pet = new buddy("Peter","Pete");
+var mik = new buddy("Michael","Mike");
+
+jim.render();br
+pet.render();
+
+
+br.call();br();
+document.write("END");
