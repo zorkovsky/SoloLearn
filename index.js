@@ -22,6 +22,7 @@ var mik = new buddy("Michael","Mike");
 jim.render();br
 pet.render();
 
+//comment SoloLearn
 
 br.call();br();
 document.write("END");
