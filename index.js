@@ -22,11 +22,22 @@ var mik = new buddy("Michael","Mike");
 jim.render();br
 pet.render();
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> SoloLearn
 //comment SoloLearn
 //comment SoloLearn II
 //comment SoloLearn III
 //comment SoloLearn III (remote)
 //comment SoloLearn IV (remote)
 //comment Sololearn V (local)
+<<<<<<< HEAD
+=======
+=======
+//comment SoloLearn3
+
+>>>>>>> SoloLearn3
+>>>>>>> SoloLearn
 br.call();br();
 document.write("END");
